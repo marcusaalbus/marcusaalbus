@@ -1,45 +1,51 @@
-### 👋 Olá! Bem-vindo ao meu GitHub!
+# Olá — meu nome é Marcus Albus
 
-Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de aprender mais e criar projetos que façam a diferença.
+Sou desenvolvedor em início de carreira e atualmente curso o Centro WEG de Desenvolvimento de Sistemas. Estou construindo projetos pequenos para aprender boas práticas, testes e controle de versão. Meu objetivo é evoluir gradualmente por meio de projetos práticos e colaboração.
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="GitHub" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+<div align="center" style="display:flex;gap:12px;flex-wrap:wrap;justify-content:center">
+  <div style="width:72px;height:72px;background:#5382A1;border-radius:8px;display:flex;align-items:center;justify-content:center;color:#ffffff;font-weight:600">Java</div>
+  <div style="width:72px;height:72px;background:#00758F;border-radius:8px;display:flex;align-items:center;justify-content:center;color:#ffffff;font-weight:600">MySQL</div>
+  <div style="width:72px;height:72px;background:#F05032;border-radius:8px;display:flex;align-items:center;justify-content:center;color:#ffffff;font-weight:600">Git</div>
+  <div style="width:72px;height:72px;background:#24292F;border-radius:8px;display:flex;align-items:center;justify-content:center;color:#ffffff;font-weight:600">GitHub</div>
 </div>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Contato
+- Email: marcusalbus8@gmail.com
+- Celular: +55 47 99230-5331
+
+---
+
+## Minhas estatísticas
 
 <div align="center">
-  <a href="https://github.com/SEU_USUARIO">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+  <a href="https://github.com/marcusaalbus">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcusaalbus&show_icons=true&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusaalbus&layout=compact&theme=tokyonight"/>
+  </a>
 </div>
 
 ---
 
-## 📫 Como me encontrar
-- ✉️ Email: **seuemail@example.com**
-- 💼 LinkedIn: **https://www.linkedin.com/in/SEU_USUARIO**
+## Visitas ao perfil
+
+<div align="center">
+  <a href="https://github.com/marcusaalbus">
+    [![Profile views](https://komarev.com/ghpvc/?username=marcusaalbus&color=7fffd4)](https://github.com/marcusaalbus)
+  </a>
+</div>
 
 ---
 
-## 🧩 Sobre mim
-- 🔭 Atualmente estudando: **Java, MySQL, Git/GitHub**
-- 🎯 Objetivo: crescer como desenvolvedor e criar projetos cada vez melhores.
-- 😄 Curiosidade: eu gosto de tecnologia, códigos e desafios!
+## Minhas atividades
 
----
-
-## 🛠️ Ferramentas do README (badges)
-
-```md
-[![GitHub followers](https://img.shields.io/github/followers/SEU_USUARIO?style=social)](https://github.com/SEU_USUARIO)
-[![Profile views](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blue)](https://github.com/SEU_USUARIO)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcusaalbus&theme=tokyonight" alt="GitHub streak stats" height="150"/>
+  <br><br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=marcusaalbus&theme=github" alt="Contribution graph" height="200"/>
+</div>
